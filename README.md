@@ -1,4 +1,9 @@
-﻿# Operum Advisor
+﻿# Operum
+
+# Equipe
+Rony Nagai | RM551549
+Tomaz Versolato | RM551417
+Pedro Valotto | 551445
 
 ## Visao Geral
 Operum Advisor e um prototipo de assessor virtual de investimentos construido com Spring Boot e MySQL. A aplicacao cobre o ciclo de cadastro do cliente, diagnostico do perfil investidor e geracao de recomendacoes de carteiras pre-cadastradas, garantindo validacoes de LGPD e criptografia de dados sensiveis.
