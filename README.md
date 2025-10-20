@@ -1134,11 +1134,7 @@ Na resposta do Swagger, expanda:
 
 ---
 
-**🎉 Pronto! Agora você é um expert em usar o Swagger UI do Operum Advisor!**
-
----
-
-## 🧪 Testes Automatizados
+## Testes Automatizados
 
 ### Executar Todos os Testes
 ```bash
@@ -1381,7 +1377,7 @@ curl -X POST http://localhost:8080/recomendacoes \
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Problema: Erro de conexão com MySQL
 **Solução:**
@@ -1430,7 +1426,7 @@ app.encryption.secret=operum-secret-key
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto é um protótipo educacional desenvolvido para a disciplina de **Arquitetura de Software** da **FIAP**.
 
@@ -1438,7 +1434,7 @@ Este projeto é um protótipo educacional desenvolvido para a disciplina de **Ar
 
 ---
 
-## 📚 Referências Técnicas
+## Referências Técnicas
 
 - [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 - [Spring Security JWT](https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html)
