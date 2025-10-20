@@ -149,7 +149,7 @@ jwt.expiration=86400000  # 24 horas
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Método 1: Via Maven Wrapper (Recomendado)
 ```bash
